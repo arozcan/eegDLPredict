@@ -1,4 +1,4 @@
-clc,clear
+4clc,clear
 addpath('functions');
 addpath('refData')
 addpath('../blockEdfLoad');
@@ -15,7 +15,7 @@ window_length=4;
 overlap = 0.5;
 time_diff = false;
 
-%% her hasta icin 5sn lik pencere kullanilarak preictal ve interictal oznitelikler cikarilacak
+%% her hasta icin 4sn lik pencere kullanilarak preictal ve interictal oznitelikler cikarilacak
 calc_feature=1;
 if calc_feature==1
     for p=1:length(pat_records)
