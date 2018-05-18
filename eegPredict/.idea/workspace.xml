@@ -20,8 +20,8 @@
           <file leaf-file-name="eeg_predict.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/eegpredict/eeg_predict.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="430">
-                  <caret line="100" column="93" lean-forward="false" selection-start-line="100" selection-start-column="93" selection-end-line="100" selection-end-column="93" />
+                <state relative-caret-position="532">
+                  <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
                   <folding>
                     <element signature="e#24#61#0" expanded="true" />
                   </folding>
@@ -602,8 +602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eegpredict/eeg_predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="100" column="93" lean-forward="false" selection-start-line="100" selection-start-column="93" selection-end-line="100" selection-end-column="93" />
+        <state relative-caret-position="532">
+          <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
           <folding>
             <element signature="e#24#61#0" expanded="true" />
           </folding>
