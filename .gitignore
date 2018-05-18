@@ -1,0 +1,5 @@
+generateEEGFeats/dataset/
+generateEEGFeats/images/
+eegPredict/data
+eegPredict/model
+eegPredict/test
