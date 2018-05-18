@@ -3,3 +3,4 @@ generateEEGFeats/images/
 eegPredict/data
 eegPredict/model
 eegPredict/test
+*.pyc
